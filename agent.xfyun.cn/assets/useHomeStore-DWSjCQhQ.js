@@ -1,0 +1,1 @@
+import{dY as t}from"./index-ChJwsExv.js";const r=t(e=>({botType:"",botOrigin:"home",scrollTop:0,loadingPage:1,searchInputValue:"",setBotType:o=>e({botType:o}),setBotOrigin:o=>e({botOrigin:o}),setScrollTop:o=>e({scrollTop:o}),setLoadingPage:o=>e({loadingPage:o}),setSearchInputValue:o=>e({searchInputValue:o})}));export{r as u};
